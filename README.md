@@ -3,6 +3,7 @@ Useful Links for different topics.
 
 [This repo for code references :-)](https://github.com/school-repos)
 
+[w3schools Tutorials for HTML / JS / CSS](https://www.w3schools.com/)
 
 ## JavaScript
 
